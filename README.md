@@ -1,1 +1,5 @@
-# 2025-GuiGu-Winter-Vacation-Final-Assessment-Document
+## 25届寒假终期结果提交说明
+
+1.以压缩包的形式打包上传
+
+2.需重命名为 【专业班级姓名】
